@@ -1,0 +1,22 @@
+:root {
+    /* fonts */
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-base: 28px;
+    --font-size-lg: 50px;
+    --font-size-xl: 82px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-violet-100: #c17ee6;
+    --color-violet-200:
+    rgba(193, 126, 230, 0.45);
+    --color-violet-300:
+    rgba(193, 126, 230, 0.15);
+    --color-gold-100: #ffdd00;
+    --color-gold-200: #f2d204;
+    --color-gray: #d9d9d9;
+  }
+  

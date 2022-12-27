@@ -4,7 +4,7 @@
 }
 
 body {
-    color: #373737;
+    color: #C17EE6;
     font-size: 16px;
     position: relative;
 }
@@ -19,6 +19,7 @@ h6 {
 }
 
 h1 {
+    color:#C17EE6;
     font-size: 36px;
     margin-bottom: 40px;
 }
@@ -68,9 +69,10 @@ input[type="radio"] {
 }
 
 .page-container {
-    max-width: 800px;
+    background-color: #ffffff;
+    /* max-width: 800px; */
     padding: 80px 24px;
-    margin: auto;
+    margin-top: -105px;
 }
 
 @media (max-width: 768px) {
